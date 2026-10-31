@@ -2,6 +2,7 @@
   "name": "heifer",
   "version": "0.1.0",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "start": "node main.js"
   },

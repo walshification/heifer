@@ -1,3 +1,3 @@
-const moo = (name) => `moo, ${name}!`;
-
-module.exports = { moo };
+export default function moo(name) {
+  return `moo, ${name}!`;
+}
