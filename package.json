@@ -7,5 +7,10 @@
   },
   "author": "Christopher Walsh",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.29.7",
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7"
+  }
 }
