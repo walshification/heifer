@@ -1,3 +1,4 @@
 import moo from "./moo.js";
+import { say } from "cowsay";
 
-console.log(moo("Goodman Brown"));
+console.log(say({ text: moo("Goodman Brown") }));
