@@ -1,2 +1,3 @@
-const someName = "Goodman Brown";
-console.log(`moo, ${someName}`);
+const { moo } = require("./moo.js");
+
+console.log(moo("Goodman Brown"));
